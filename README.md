@@ -1,8 +1,9 @@
 # Hello! I'm Kodak. :wave:
 
-<div align="center" style="margin: 10px 10px">
+<p align="center">
   <img src="./Kodak.jpg" alt="Kodak" width="640" height="369">
-</div>
+</p>
+
 <p align="center"> 
   <a href="https://github.com/Kodak4400/Kodak4400/">
     <img src="https://komarev.com/ghpvc/?username=Kodak" alt="Kodak" />
@@ -23,24 +24,26 @@
 
 ## :bar_chart: Status
 
-<p align="center" style="margin: 10px 10px"> 
+<p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kodak4400&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kodak4400&theme=onedark&show_icons=ture" />
 </p>
-
+<p align="center"> 
+  <img alt="summary-card" height="200px" src="https://raw.githubusercontent.com/Kodak4400/Kodak4400/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+</p>
 
 ## :pencil2: Blog
-<div style="margin: 10px">
+<p>
   <a href="https://kodak.hatenablog.com">
     <img height="20" src="https://img.shields.io/badge/Kodak--Blog-Hatena-blueviolet?style=for-the-badge" />
   </a>
-</div>
+</p>
 
 
 ## :zap: Languages and Tools
 
-<p align="left" style="margin: 10px 10px">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 10px">
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       alt="aws"
@@ -48,7 +51,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 10px">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
@@ -56,7 +59,7 @@
       height="40"
     />
   </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="margin-right: 10px">
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
       alt="gcp"
@@ -68,7 +71,6 @@
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
-    style="margin-right: 10px"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -77,7 +79,7 @@
       height="40"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 10px">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
@@ -85,7 +87,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin-right: 10px">
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
       alt="php"
@@ -93,7 +95,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
@@ -101,7 +103,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right: 10px">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
@@ -109,7 +111,7 @@
       height="40"
     />
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px">
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
       alt="vuejs"
