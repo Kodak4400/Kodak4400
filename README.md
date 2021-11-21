@@ -28,6 +28,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kodak4400&theme=onedark&show_icons=ture" />
 </p>
 
+
 ## :pencil2: Blog
 <div style="margin: 10px">
   <a href="https://kodak.hatenablog.com">
