@@ -15,7 +15,7 @@
     <img height="20" src="https://img.shields.io/twitter/follow/Kodak_log?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/Kodak_tmo">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Kodak_tmo/posts.svg" />
   </a>
   <a href="https://kodak.hatenablog.com">
     <img height="20" src="https://img.shields.io/badge/Kodak--Blog-Hatena-blueviolet" />
